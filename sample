@@ -1,0 +1,11 @@
+//syntax for a simple web page creation
+<!doctype html>
+<html>
+<head>
+<title>//title</title>
+//contents
+</head>
+<body>
+//contents
+//tags
+</html>
