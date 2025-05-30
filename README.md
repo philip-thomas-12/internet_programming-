@@ -18,20 +18,29 @@ Welcome to the **Internet Programming** project! This is a full-stack web applic
 internet_programming-/
 │
 ├── frontend/ # HTML, CSS, and JS files
+
 │ ├── index.html
+
 │ ├── style.css
+
 │ └── script.js
+
 │
 ├── backend_node/ # Node.js + Express backend
+
 │ ├── server.js
+
 │ └── package.json
 │
+
 ├── backend_php/ # PHP form handler
 │ └── submit.php
 │
+
 ├── backend_mysql/ # MySQL connection example
 │ └── connect.php
 │
+
 └── README.md # Project documentation
 
 
